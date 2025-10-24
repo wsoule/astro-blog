@@ -1,14 +1,14 @@
 {
   "runWizardOnStartup": true,
   "currentTemplate": "standard",
-  "currentTheme": "oxygen",
+  "currentTheme": "things",
   "customThemeFile": "custom",
   "contentOrganization": "file-based",
   "siteInfo": {
-    "site": "https://astro-modular.netlify.app",
-    "title": "Astro Modular",
-    "description": "A flexible blog theme designed for Obsidian users.",
-    "author": "David V. Kimball",
+    "site": "https://wyat.me",
+    "title": "Wyat Portfolio",
+    "description": "Wyat's Dev Portfolio",
+    "author": "Wyat Soule",
     "language": "en"
   },
   "layout": {
@@ -49,19 +49,24 @@
       },
       {
         "title": "GitHub",
-        "url": "https://github.com/davidvkimball/astro-modular"
+        "url": "https://github.com/wsoule/astro-blog"
       }
     ],
     "social": [
       {
         "title": "X",
-        "url": "https://x.com/davidvkimball",
+        "url": "https://x.com/wyatbuildsathing",
         "icon": "x-twitter"
       },
       {
         "title": "GitHub",
-        "url": "https://github.com/davidvkimball",
+        "url": "https://github.com/wsoule",
         "icon": "github"
+      },
+      {
+        "title": "Linkedin",
+        "url": "https://www.linkedin.com/in/wyat-soule/",
+        "icon": "linkedin"
       }
     ]
   },
@@ -148,7 +153,7 @@
   },
   "features": {
     "commandPalette": true,
-    "tableOfContents": false,
+    "tableOfContents": true,
     "readingTime": true,
     "linkedMentions": true,
     "linkedMentionsCompact": false,
@@ -171,8 +176,8 @@
     }
   },
   "typography": {
-    "headingFont": "Inter",
-    "proseFont": "Inter",
+    "headingFont": "JetBrains Mono",
+    "proseFont": "JetBrains Mono",
     "monoFont": "JetBrains Mono",
     "fontSource": "local",
     "fontDisplay": "swap",
@@ -196,23 +201,23 @@
     "comments": {
       "enabled": false,
       "provider": "giscus",
-      "rawScript": "",
-      "repo": "davidvkimball/astro-modular",
-      "repoId": "R_kgDOPllfKw",
+      "rawScript": "<script src=\"https://giscus.app/client.js\"\n        data-repo=\"wsoule/astro-blog\"\n        data-repo-id=\"R_kgDOQIH7_g\"\n        data-category=\"General\"\n        data-category-id=\"DIC_kwDOQIH7_s4Cw_wq\"\n        data-mapping=\"pathname\"\n        data-strict=\"0\"\n        data-reactions-enabled=\"1\"\n        data-emit-metadata=\"0\"\n        data-input-position=\"top\"\n        data-theme=\"preferred_color_scheme\"\n        data-lang=\"en\"\n        crossorigin=\"anonymous\"\n        async>\n</script>",
+      "repo": "wsoule/astro-blog",
+      "repoId": "R_kgDOQIH7_g",
       "category": "General",
-      "categoryId": "DIC_kwDOPllfK84CvUpx",
+      "categoryId": "DIC_kwDOQIH7_s4Cw_wq",
       "mapping": "pathname",
       "strict": "0",
       "reactions": "1",
       "metadata": "0",
-      "inputPosition": "bottom",
+      "inputPosition": "top",
       "theme": "preferred_color_scheme",
       "lang": "en",
       "loading": "lazy"
     }
   },
   "deployment": {
-    "platform": "netlify"
+    "platform": "github-pages"
   },
   "pluginConfig": {
     "obsidianSettings": {
