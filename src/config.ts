@@ -183,11 +183,11 @@ export const siteConfig: SiteConfig = {
   // [CONFIG:SITE_URL]
   site: "https://wyat.me",
   // [CONFIG:SITE_TITLE]
-  title: "Wyat Portfolio",
+  title: "Wyat",
   // [CONFIG:SITE_DESCRIPTION]
   description: "Wyat's Dev Portfolio",
   // [CONFIG:SITE_AUTHOR]
-  author: "Wyat Soule",
+  author: "Wyat",
   // [CONFIG:SITE_LANGUAGE]
   language: "en",
 
