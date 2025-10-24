@@ -242,7 +242,7 @@ export const siteConfig: SiteConfig = {
   },
   deployment: {
     // [CONFIG:DEPLOYMENT_PLATFORM]
-    platform: "github-pages", // "netlify" | "vercel" | "github-pages" - sets redirect configuration for the chosen platform
+    platform: "netlify", // "netlify" | "vercel" | "github-pages" - sets redirect configuration for the chosen platform
   },
 
   // Command Palette

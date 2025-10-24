@@ -16,8 +16,8 @@ A flexible blog theme designed for Obsidian users.
 
 ### Status
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3f849f7a-71e6-463b-84af-01c523012348/deploy-status)](https://app.netlify.com/sites/astro-modular/deploys)
-[![GitHub last commit](https://img.shields.io/github/last-commit/davidvkimball/astro-modular)](https://github.com/davidvkimball/astro-modular)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/davidvkimball/astro-modular)](https://github.com/davidvkimball/astro-modular)
+[![GitHub last commit](https://img.shields.io/github/last-commit/wsoule/astro-blog)](https://github.com/wsoule/astro-blog)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/wsoule/astro-blog)](https://github.com/wsoule/astro-blog)
 
 ### Tech Stack
 [![Astro](https://img.shields.io/badge/Astro-5.13.4-FF5D01?logo=astro&logoColor=white)](https://astro.build/)
@@ -60,8 +60,8 @@ A flexible blog theme designed for Obsidian users.
 
 ## Quick Start
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/davidvkimball/astro-modular)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/davidvkimball/astro-modular)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/wsoule/astro-blog)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/wsoule/astro-blog)
 
 ### Prerequisites
 - Node.js 18 or higher
@@ -116,4 +116,4 @@ This is an open-source project. Feel free to submit feature requests, report bug
 
 ## License
 
-[MIT License](https://github.com/davidvkimball/astro-modular?tab=MIT-1-ov-file)
+[MIT License](https://github.com/wsoule/astro-blog?tab=MIT-1-ov-file)
