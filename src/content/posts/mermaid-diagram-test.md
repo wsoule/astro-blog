@@ -5,7 +5,7 @@ date: 2025-09-07
 tags:
   - formatting
   - obsidian
-draft: false
+draft: true
 image:
 imageAlt:
 imageOG: false
